@@ -4,15 +4,15 @@ This action prints "Hello World" or "Hello" + the name of a person to greet to t
 
 ## Inputs
 
-### `who-to-greet`
+### `docker-challenge`
 
-**Required** The name of the person to greet. Default `"World"`.
+**Required** Say Hi to Hakan. Default `"World"`.
 
 ## Outputs
 
 ### `time`
 
-The time we greeted you.
+The time we said hi.
 
 ## Example usage
 
